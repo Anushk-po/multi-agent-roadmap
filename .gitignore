@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Roadmap state (optional - uncomment if you want to track roadmap in git)
+# /roadmap/
+
+# Submissions (if you use a submissions directory)
+/roadmap/submissions/
